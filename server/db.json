@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "Basic Tee",
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "price": "$35",
+      "color": "Black",
+      "published": false,
+      "publishDate": "2017‑12‑14T16:34"
+    },
+    {
+      "id": "2",
+      "name": "Basic Tee",
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "price": "$35",
+      "color": "Black",
+      "published": true,
+      "publishDate": "2017‑12‑14T16:34"
+    },
+    {
+      "id": "3",
+      "name": "Basic Tee",
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "price": "$3532423",
+      "color": "Black",
+      "published": true,
+      "publishDate": "2017‑12‑14T16:34"
+    },
+    {
+      "id": "4",
+      "name": "Basic Tee",
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "price": "$35",
+      "color": "Black",
+      "published": true,
+      "publishDate": "2017‑12‑14T16:34"
+    },
+    {
+      "name": "Basic Tee",
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "price": "$35",
+      "color": "Black",
+      "published": true,
+      "id": "GZGxsP-",
+      "publishDate": "2017‑12‑14T16:34"
+    },
+    {
+      "id": "xBw4TrU",
+      "name": "T-shirt",
+      "imageSrc": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+      "price": "2000",
+      "color": "Red",
+      "published": true,
+      "publishDate": "2017‑12‑14T16:34"
+    },
+    {
+      "id": "CN6pYJI",
+      "name": "áo",
+      "imageSrc": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "price": "2",
+      "color": "2",
+      "published": true,
+      "publishDate": "2023-07-01T17:00"
+    }
+  ]
+}
